@@ -15,4 +15,4 @@ Automated testing for Automation Practice Site using Selenium WebDriver and Mave
 
 1. **Clone the repository**
    ```bash
-   
+   https://github.com/anandmopidi-hub/LinerClassParaBankSite.git
